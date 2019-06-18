@@ -20,7 +20,7 @@ In 2017, I received a full scholarship partially funded by Davis Scholars Founda
 - **Fluid Mechanics**, a Physics Elective (PHY630)
 - **Multivariable Calculus and Linear Algebra**, a Math Elective (MTH650)
 - **Computer Vision**, an Honors Computer Science Seminar (CSC630)
-- **Accelerated Chinese Sequence**, Fourth Level (CHI420)
+- **Accelerated Chinese Sequence**, Fourth Level Chinese (CHI420)
 - An English Elective (TBD)
 
 #### Stanford Pre-Collegiate Studies (SPCS), Business & Entrepreneurship Section, 2018 
@@ -34,13 +34,13 @@ Following my first attempt a year before, in 2016 I was selected as one of the 1
 
 ## Leadership Positions & Organizations
 #### Admission Officer, Technology Lead, and Mentor at Ukraine Global Scholars 501(c)(3), 2016-2019
-In 2018-2019, I mentored two UGS scholars to apply to boarding schools. They ultimately received over $400,000 in scholarship money and will be attending Phillips Academy and The Taft School in the Fall of 2019. I have also built an updated website for Ukraine Global Scholars — https://ukraineglobalscholars.org/. In 2020, I will be responsible for building a new application platform. Recently, I have become the first high school student to become an admission officer at UGS, and have since contributed significantly to selecting a new UGS cohort of most talented Ukrainian students.
+In 2018-2019, I mentored two UGS scholars to apply to boarding schools. They ultimately received over $400,000 in scholarship money and will be attending Phillips Academy and The Taft School in the Fall of 2019. I have also built an updated website for Ukraine Global Scholars* — https://ukraineglobalscholars.org/. In 2020, I will be responsible for building a new application platform. Recently, I have become the first high school student to become an admission officer at UGS, and have since contributed significantly to selecting a new UGS cohort of most talented Ukrainian students.
 
 #### Co-Founder at Harpocrate, a [Politiwatch](https://politiwatch.org/) 501(c)(3) initiative, 2019
 Harpocrate is an initiative that strives to establish transparency in the realm of online privacy. It is a logical extension of [OpenPD](https://openpd.org/) — a standardized privacy policy standard currently in development by Politiwatch. Harpocrate ventures to create a lookup system that uses intelligent algorithms, including machine learning, to process the contents of privacy policies and present them in an easily digestible way. Such output will be displayed in a browser extension and could then be verified by companies if they write their policies in OpenPD standard — thus popularizing the standard and increasing privacy accountability online. Harpocrate is being developed in collaboration with [Miles McCain](https://rmrm.io/), the founder of Politiwatch.
 
 #### Co-Founder at Plutus, a financial technology startup, 2019
-Plutus is an innovative platform to trade financial securities, specificially options, currently in development. It is in its early development stage, although it is already supported by influential Silicon Valley entrepreneurs and famous investors (NDA).
+Plutus is an innovative platform to trade financial securities, specificially options, that is currently in development. It is in its early production stage, although it is already supported by influential Silicon Valley entrepreneurs and famous investors (NDA).
 
 #### Co-Founder at Dr. Penguin Studios (c), 2017-present
 Dr. Penguin Studios is an (unregistered) indie game development company I founded that consists of three people. We have collaborated at Global Game Jam Ukraine in 2017, and have since developed [Icy Bounce](https://icybounce.com/) — a 3D arcade mobile game inspired by Crossy Road. The development took around a year, and the game was ultimately featured by Apple on the App Store in more than 70 countries in the _New Games We Like_ section. Currently, Icy Bounce has more than a quarter million downloads worldwide, and is translated to 13 languages. Icy Bounce received official offers to republish by multiple billion-dollar companies (NDA), though the collaboration was never reached due to the non-competitive retention rates of Icy Bounce.
@@ -49,7 +49,27 @@ Dr. Penguin Studios is an (unregistered) indie game development company I founde
 In 2018, together with Keishi Kimura, I applied for an [Abbot Grant](https://www.andover.edu/alumni/alumni-connect/abbot-academy/abbot-academy-fund) and received $9,500 in funding to establish the infrastructure for electronic music production at Phillips Academy. We have purchased various cutting-the-edge software and hardware to make electronic music accessible to everyone at the school, and are currently working on electronic music production curriculum together with the Music Department. We have also created "Andover in A Minor" — the most viewed video on Phillips Academy's Instagram account (YouTube version: https://youtu.be/6DSYlv96ZPA). The track is completely self-composed and produced by me and Keishi, and the video is produced by the Communications Office.
 
 #### President at [Blueshells](https://blueshells.net/), Co-President at [Techmasters](https://techmasters.io) & Computer Science Club at Phillips Academy
-In 2018, I was elected the co-president of Techmasters — the oldest computer science club at Andover. I was reelected again in 2019 and will serve as the club's co-president in 2019-2020. I will also be serving as the Co-President of Computer Science Club and Blueshells (a cybersecurity club) in 2019-2020. 
+In 2018, I was elected the co-president of Techmasters — the oldest computer science club at Andover. I was re-elected again in 2019 and will serve as the club's co-president in 2019-2020. I will also be serving as the Co-President of Computer Science Club and Blueshells (a cybersecurity club) in 2019-2020. 
 
-Over the recent years, Techmasters have created and held [PACTF](https://2019.pactf.com/) — a global online cybersecurity competition with over $20,000 worth of prizes and 1,000 participants. Its sponsors include Amazon, J.P. Morgan, DigitalOcean, ProtonMail, Cloudflare, Carnegie Mellon University CyLab (Security and Privacy Institute), Carnegie Mellon University Information Networking Institute, and Phillips Academy Andover. In 2017-2018, I was a problem writer. I have not, however, had an opportunity to contribute to PACTF in 2019.
+Over the recent years, Techmasters have created and held [PACTF](https://2019.pactf.com/) — a global online cybersecurity competition with over $20,000 worth of prizes and 1,000 participants. Its sponsors include Amazon, J.P. Morgan, DigitalOcean, ProtonMail, Cloudflare, Carnegie Mellon University CyLab (Security and Privacy Institute), and Carnegie Mellon University Information Networking Institute. In 2017-2018, I was a problem writer. I have not, however, had an opportunity to contribute to PACTF in 2019.
 
+## Music
+In 2011, I have started playing the guitar after watching Tommy Emmanuel's performance of "The Finger Lakes" on YouTube. Since then, I have become a self-taught guitarist, and soon attended a music school (a separate institution  from the regular school). In less than two years, I had already participated in the "Ukraine's Got Talent" (though my performance was cut from the TV version), and won multiple national guitar contests. I have also composed my first composition [**Life**](https://soundcloud.com/igor-barakaiev/life) at the age of 12, and since then have started teaching myself to play the piano and to compose electronic music. I have never stopped to play music in my free time, and currently run the electronic music club and keep taking guitar classes at Andover. Recently, I have opened one of the concluding All-School Meetings with the "Beatles Medley" (equivalent of the following performance: https://youtu.be/O1MrQRl7V-o). Besides, I have messaged Tommy Emmanuel on Facebook and heard back from him multiple times. We eventually met in Kiev in 2015 and [performed "The Finger Lakes" together](https://youtu.be/K6mBssDipec) at his "Meet & Greet".
+
+The following are several compositions, besides _Life_ and _Andover in A Minor_ that I am most proud of:
+- My piano song, composed and performed on a MIDI-keyboard back when I did not have access to a good piano (2015): https://soundcloud.com/igor-barakaiev/time/s-5u5b6
+- The following two are my latest electronic tracks:
+  - https://soundcloud.com/igor-barakaiev/id-id
+  - https://soundcloud.com/igor-barakaiev/id-1
+
+## Achievements
+
+#### Tianjin RoboCup Invitational under [World Intelligence Congress](http://info.wicongress.org/en), 2019
+Personally invited by Tsinghua University (Chinese No. 1 university) to represent the United States in an international robotics competition held in Tianjin, China, from May 15th to May 19th. My trip was fully sponsored by the Chinese government and included funding to bring my parents and another team member from Phillips Academy. We were the only representatives of the United States at the invitational.
+
+#### Hackathons and Programming Competitions
+- [**HackExeter**](http://www.hackexeter.com/) (Spring 2019): won "Developer's Award" in the annual hackathon hosted at Phillips Exeter Academy.
+- [**MIT Blueprint**](https://blueprint.hackmit.org/) (Winter 2019): won second place in the annual hackathon hosted at the MIT Media Lab.
+- [**Cyber Patriot X**](https://www.uscyberpatriot.org/) (Winter 2018): competed in the Platinum division with [Blueshells](https://blueshells.net/).
+- [**HackNEHS**](https://hacknehs.github.io/hacknehs/) (Fall 2017): won first place in the annual hackathon for New England high schools.
+- **National Ukrainian Programming Olympiad**: participated in the highest-tier selective programming competition in Ukraine (top-5 students from my city), although I have not placed top-3 at the Olympiad.
