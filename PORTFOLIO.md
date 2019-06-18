@@ -40,5 +40,7 @@ Following my first attempt a year before, in 2016 I was selected as one of the 1
 - The only high school student to become an Admission Officer at UGS.
 
 #### Co-Founder at Harpocrate, a [Politiwatch](https://politiwatch.org/) 501(c)(3) initiative, 2019
-- Harpocrate is a privacy policy lookup system that uses intelligent algorithms, including machine learning, to process the contents of privacy policies and present them to users in an easily digestible way.
-- Developed in collaboration with [Miles McCain](https://rmrm.io/) and published a browser extension downloaded by over 100,000* users and featured by New York Times*.
+__Harpocrate__ is an initiative that strives to establish transparency in the realm of online privacy. It is a logical extension of [OpenPD](https://openpd.org/) — a standardized privacy policy standard currently in development by Politiwatch. Harpocrate ventures to create a lookup system that uses intelligent algorithms, including machine learning, to process the contents of privacy policies and present them in an easily digestible way. Such output will be displayed in a browser extension (currently in development) and could then be verified by companies should they write their policies in OpenPD standard — thus popularizing the standard and increasing privacy accountability online. Harpocrate is being developed in collaboration with [Miles McCain](https://rmrm.io/), the founder of Politiwatch.
+
+#### Co-Founder at Plutus, a financial technology startup
+__Plutus__ is an innovative platform to trade options
