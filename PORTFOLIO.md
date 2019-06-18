@@ -15,7 +15,7 @@
 **In my free time I play the guitar, write electronic music, or read about finance & information security.**
 
 ## Academics
-#### Phillips Academy, a private boarding school in Massachussetts, 2017-2020
+#### Phillips Academy Andover, a private boarding school in Massachussetts, 2017-2020
 In 2017, I received a full scholarship partially funded by Davis Scholars Foundation (see below) to attend Phillips Academy — a leading preporatory school in the United States. I came from an average Ukrainian public school in a small city of Kropyvnytskyi, and was the fourth Ukrainian student to ever attend the school in its 240 years of existence. My latest term GPA was 5.8 on 6.0 scale, and I am taking the following courses in the Fall of 2019:
 - **Fluid Mechanics**, a Physics Elective (PHY630)
 - **Multivariable Calculus and Linear Algebra**, a Math Elective (MTH650)
@@ -41,5 +41,14 @@ Following my first attempt a year before, in 2016 I was selected as one of the 1
 #### Co-Founder at Harpocrate, a [Politiwatch](https://politiwatch.org/) 501(c)(3) initiative, 2019
 Harpocrate is an initiative that strives to establish transparency in the realm of online privacy. It is a logical extension of [OpenPD](https://openpd.org/) — a standardized privacy policy standard currently in development by Politiwatch. Harpocrate ventures to create a lookup system that uses intelligent algorithms, including machine learning, to process the contents of privacy policies and present them in an easily digestible way. Such output will be displayed in a browser extension and could then be verified by companies if they write their policies in OpenPD standard — thus popularizing the standard and increasing privacy accountability online. Harpocrate is being developed in collaboration with [Miles McCain](https://rmrm.io/), the founder of Politiwatch.
 
-#### Co-Founder at Plutus, a financial technology startup
-__Plutus__ is an innovative platform to trade options
+#### Co-Founder at Plutus, a financial technology startup, 2019
+Plutus is an innovative platform to trade financial securities, specificially options, currently in development. It is in its early development stage, although it is already supported by influential Silicon Valley entrepreneurs (NDA).
+
+#### Co-Founder at Dr. Penguin Studios (c), 2017-present
+Dr. Penguin Studios is an (unregistered) indie game development company I founded that consists of three people. We have collaborated at Global Game Jam Ukraine in 2017, and have since developed [Icy Bounce](https://icybounce.com/) — a 3D arcade mobile game inspired by Crossy Road. The development took around a year, and the game was ultimately featured by Apple on the App Store in more than 70 countries in the _New Games We Like_ section. Currently, Icy Bounce has more than a quarter million downloads worldwide, and is translated to 13 languages. Icy Bounce received offers to republish by multiple billion-dollar companies (NDA), though the collaboration was never reached due to non-competitive retention rates of Icy Bounce.
+
+#### Co-Founder of the Electronic Music Production Club at Phillips Academy
+In 2018, together with Keishi Kimura, I applied for an [Abbot Grant](https://www.andover.edu/alumni/alumni-connect/abbot-academy/abbot-academy-fund) and received $9,500 in funding to establish the infrastructure for electronic music production at Phillips Academy. We have purchased various cutting-the-edge software and hardware to make electronic music accessible to everyone at the school, and are currently working on electronic music production curriculum together with the Music Department. We have also collaborated with the Communications Office and various student musicians to create "Andover in A Minor" — the most viewed video on Phillips Academy's Instagram account (YouTube version: https://youtu.be/6DSYlv96ZPA). 
+
+#### President at [Blueshells](https://blueshells.net/), Co-President at [Techmasters](https://techmasters.io) & Computer Science Club at Phillips Academy
+In 2018, I was elected the co-president of Techmasters — the oldest computer science club at Andover. I was reelected again in 2019 and will serve as the club's co-president
