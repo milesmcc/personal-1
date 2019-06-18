@@ -3,8 +3,7 @@
   <h1 align="center">Igor Barakaiev</a></h1>
   <h4 align="center"><a href="https://igor.fyi/" style="color: #64b5f6">Personal Website »</a></h4>
   <p align="center">Legal name: Ihor Barakaiev<br>Chinese name: 毕毅豪<br>
-  Ukrainian Spelling: Ігор Баракаєв<br>
-  Russian Spelling: Игорь Баракаев</p>
+  Ukrainian Spelling: Ігор Баракаєв</p>
 </p>
 <br>
 <br>
