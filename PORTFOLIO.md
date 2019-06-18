@@ -28,5 +28,18 @@
 - Received full scholarship to attend a three-week-long selective summer session at Stanford University that focused in finance & investements.
 
 #### Davis Scholars
-- One of ~40 students worldwide that received a $60,000 scholarship contributing to the tuition at a private school and $80,000 contributing to the tuition at a college.
+- One of ~40 students worldwide to receive a $60,000 scholarship contributing to the tuition at a private boarding school and $80,000 contributing to the tuition at a college.
 - Built a website for Davis Scholars that lists the scholarship recipients and their schools on an interactive 3D model of Earth.
+
+#### Ukraine Global Scholars (UGS), 501(c)(3), 2016
+- Selected as one of 19 students out of 500+ applicants from Ukraine to receive guidance with the admission to private U.S. schools.
+- With the help of UGS, applied to 13 independent boarding schools in the United States and gained admission to Phillips Academy, where I am currently enrolled, as well as three other preporatory schools.
+
+#### Kropyvnytskyi Music School No. 2, 2012-2016
+- Graduated 
+
+## Leadership Positions & Organizations
+#### Admission Officer, Technology Lead, and Mentor at Ukraine Global Scholars 501(c)(3)
+- Mentored two UGS scholars in 2018 to apply to boarding schools. They received over $400,000 in scholarship money and will be attending Phillips Academy and The Taft School in the Fall of 2019. 
+- Built an updated website for Ukraine Global Scholars — https://ukraineglobalscholars.org/. Responsible for building a new application platform in 2020.
+- The only high school student to become an Admission Officer in the 2019 application process and help select the most talented and ambitious students into the program.
