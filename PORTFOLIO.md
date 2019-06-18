@@ -72,7 +72,7 @@ I was personally invited by Tsinghua University (Chinese No. 1 university) to re
 - [**MIT Blueprint**](https://blueprint.hackmit.org/) (Winter 2019): won second place in the annual hackathon hosted at the MIT Media Lab.
 - [**Cyber Patriot X**](https://www.uscyberpatriot.org/) (Winter 2018): competed in the Platinum division with [Blueshells](https://blueshells.net/).
 - [**HackNEHS**](https://hacknehs.github.io/hacknehs/) (Fall 2017): won first place in the annual hackathon for New England high schools.
-- **National Ukrainian Programming Olympiad**: participated in the highest-tier selective programming competition in Ukraine (top-5 students from my city), although I have not placed top-3 at the Olympiad.
+- **National Ukrainian Programming Olympiad** (2015, 2016): participated twice in the highest-tier selective programming competition in Ukraine (top-5 students from my city), although I have not placed top-3 at the Olympiad.
 
 ## Other
 Over the years, I have worked on a number of projects ranging from 2D games to machine learning algorithms. I am unable to include many of those in this portfolio as most of them have been discontinued. Below is the brief list of the most interesting ones:
