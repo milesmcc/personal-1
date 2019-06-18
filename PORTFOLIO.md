@@ -8,17 +8,17 @@
 
 (Disclaimer: some of the information is projected as of October 2019. That is, it might yet not be completely true as of Summer 2019.)
 
-**I am interested in how technology affects people politically, economically, and personally. My short-term objectives include building Harpocrate — a 501(c)(3) initiative established to provide transparency in privacy policies, collaborating with CoSpace Robotics to bring accessible programming education to US students from underprivileged backgrounds, and developing Plutus — financial securities trading platform backed by Silicon Valley investors. I am also the creator of [Icy Bounce](https://icybounce.com) — a mobile arcade game featured by Apple in 70+ countries & downloaded over 250,000 times, and a mentor at [Ukraine Global Scholars 501(c)(3)](https://ukraineglobalscholars.org) — a non-profit that in less than five years of existence helped more than 50 talented Ukrainian high school students receive over 15 million dollars to study in the top-rated schools worldwide.**
+**I am interested in how technology affects people politically, economically, and personally. My short-term objectives include building Harpocrate — a 501(c)(3) initiative established to provide transparency in privacy policies, collaborating with CoSpace Robotics to bring accessible programming education to US students from underprivileged backgrounds, and developing Plutus — a financial technology startup backed by Silicon Valley investors. I am also the creator of [Icy Bounce](https://icybounce.com) — a mobile arcade game featured by Apple in 70+ countries & downloaded over 250,000 times, and a mentor at [Ukraine Global Scholars 501(c)(3)](https://ukraineglobalscholars.org) — a non-profit that in less than five years of existence helped more than 50 talented Ukrainian high school students receive over 15 million dollars to study in the top-rated schools worldwide.**
 
 **In my free time I play the guitar, write electronic music, or read about finance & information security.**
 
 ## Academics
 #### **Phillips Academy**, a private boarding school in Massachussetts, 2017-2020
 In 2017, I received a full scholarship partially funded by Davis Scholars Foundation (see below) to attend Phillips Academy — a leading preporatory school in the United States. I came from an average Ukrainian public school in a small city of Kropyvnytskyi, and was the fourth Ukrainian student to ever attend the school in its 240 years of existence. My latest term GPA was 5.8 on 6.0 scale, and I am taking the following courses in the Fall of 2019:
-- Physics Elective, Fluid Mechanics (PHY630)
-- Multivariable Calculus and Linear Algebra (MTH650)
-- Honors Computer Science Seminar, Computer Vision (CSC630)
-- Accelerated Chinese Sequence, Fourth Level (CHI420)
+- **Fluid Mechanics**, a physics elective (PHY630)
+- **Multivariable Calculus and Linear Algebra** (MTH650)
+- **Computer Vision**, an Honors Computer Science Seminar (CSC630)
+- **Accelerated Chinese Sequence**, Fourth Level (CHI420)
 - An English Elective (TBD)
 
 #### **Stanford Pre-Collegiate Studies**, Business & Entrepreneurship Section, 2018 
