@@ -1,10 +1,10 @@
 <p align="center">
   <img src="https://ibarakaiev.shpp.me/pics/portfolio_avatar.png" width=200>
   <h1 align="center">Igor Barakaiev</a></h1>
-  <p align="center">Legal name: Ihor Barakaiev<br>Chinese name: 毕毅豪<br>
+  <p>Legal name: Ihor Barakaiev<br>Chinese name: 毕毅豪<br>
   Ukrainian Spelling: Ігор Баракаєв<br>
   Russian Spelling: Игорь Баракаев</p>
-  <h4 align="center"><a href="https://igor.fyi/" style="color: #64b5f6">Personal Website »</a></h4>
+  <h4><a href="https://igor.fyi/" style="color: #64b5f6">Personal Website »</a></h4>
 </p>
 <br>
 <br>
