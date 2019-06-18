@@ -65,7 +65,7 @@ The following are several compositions, besides _Life_ and _Andover in A Minor_ 
 ## Achievements
 
 #### Tianjin RoboCup Invitational under [World Intelligence Congress](http://info.wicongress.org/en), 2019
-Personally invited by Tsinghua University (Chinese No. 1 university) to represent the United States in an international robotics competition held in Tianjin, China, from May 15th to May 19th. My trip was fully sponsored by the Chinese government and included funding to bring my parents and another team member from Phillips Academy. We were the only representatives of the United States at the invitational.
+I was personally invited by Tsinghua University (Chinese No. 1 university) to represent the United States in an international robotics competition held in Tianjin, China, from May 15th to May 19th. My trip was fully sponsored by the Chinese government and included funding to bring my parents and another team member from Phillips Academy. We were the only representatives of the United States at the invitational. There, I was invited to contribute to the expansion of CoSpace Robotics to the United States in order to bring accessible computer science education to students from underprivileged backgrounds, starting in Providence, RI, and later expanding to the rest of the United States.
 
 #### Hackathons and Programming Competitions
 - [**HackExeter**](http://www.hackexeter.com/) (Spring 2019): won "Developer's Award" in the annual hackathon hosted at Phillips Exeter Academy.
@@ -73,3 +73,9 @@ Personally invited by Tsinghua University (Chinese No. 1 university) to represen
 - [**Cyber Patriot X**](https://www.uscyberpatriot.org/) (Winter 2018): competed in the Platinum division with [Blueshells](https://blueshells.net/).
 - [**HackNEHS**](https://hacknehs.github.io/hacknehs/) (Fall 2017): won first place in the annual hackathon for New England high schools.
 - **National Ukrainian Programming Olympiad**: participated in the highest-tier selective programming competition in Ukraine (top-5 students from my city), although I have not placed top-3 at the Olympiad.
+
+## Other
+Over the years, I have worked on a number of projects ranging from 2D games to machine learning algorithms. I am unable to include many of those in this portfolio as most of them have been discontinued. Below is the brief list of the most interesting ones:
+- **Decrypth**: a YouTube channel containing a series of CS puzzles, solving which leads to a secret Telegram channel (discontinued).
+- **WearEnglish**: a smartwatch app developed for Samsung Gear S2 within "Ukrainian Inside" — a national programming contest held by Samsung. The app is no longer available, though the Google Slides presentation can be found [here](https://drive.google.com/open?id=1CaEmYqFKlGmmMadr_-wXEg2cbLdHl9S3pNte4PGT6_Q).
+- **CHCKR**: a natural language processing model for analyzing essay on more general topics than merely grammar (i.e. semantics, )
