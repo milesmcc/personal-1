@@ -14,7 +14,7 @@
 
 ## Academics
 #### **Phillips Academy**, a private boarding school in Massachussetts, 2017-2020
-In 2017, I received a full scholarship (~$280,000) partially funded by Davis Scholars Foundation (see below) to attend Phillips Academy — a leading preporatory school in the United States. I came from an average Ukrainian public school in a small city of Kropyvnytskyi, and was the fourth Ukrainian student to ever attend the school in its 240 years of existence. My latest term GPA was 5.8 on 6.0 scale, and I am taking the following courses in the Fall of 2019:
+In 2017, I received a full scholarship partially funded by Davis Scholars Foundation (see below) to attend Phillips Academy — a leading preporatory school in the United States. I came from an average Ukrainian public school in a small city of Kropyvnytskyi, and was the fourth Ukrainian student to ever attend the school in its 240 years of existence. My latest term GPA was 5.8 on 6.0 scale, and I am taking the following courses in the Fall of 2019:
 - Physics Elective, Fluid Mechanics (PHY630)
 - Multivariable Calculus and Linear Algebra (MTH650)
 - Honors Computer Science Seminar, Computer Vision (CSC630)
