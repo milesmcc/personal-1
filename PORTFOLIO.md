@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">Igor Barakaiev</a></h1>
-  <h2 align="center"><a href="https://igor.fyi/" style="color: #64b5f6">毕毅豪</a></h2>
+  <h3 align="center"><a href="https://igor.fyi/" style="color: #64b5f6">毕毅豪</a></h3>
 </p>
 <br>
 <br>
