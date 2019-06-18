@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Igor Barakaiev</a></h1>
-  <h3 align="center">Chinese name: 毕毅豪</h3>
-  <h3 align="center"><a href="https://igor.fyi/" style="color: #64b5f6">Personal Website »</a></h3>
+  <h4 align="center">Chinese name: 毕毅豪</h4>
+  <h4 align="center"><a href="https://igor.fyi/" style="color: #64b5f6">Personal Website »</a></h4>
 </p>
 <br>
 <br>
