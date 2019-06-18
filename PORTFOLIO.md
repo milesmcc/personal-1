@@ -24,7 +24,7 @@ In 2017, I received a full scholarship partially funded by Davis Scholars Founda
 #### Stanford Pre-Collegiate Studies (SPCS), Business & Entrepreneurship Section, 2018 
 I received a full scholarship to attend a three-week-long selective summer session at Stanford University that focused in finance & investments. I was the only Ukrainian student in the entire SPCS program in 2018.
 
-#### Davis Scholars
+#### Davis Scholars, 2017-present
 Along with my admission to Phillips Academy in 2017, I was also selected by the admission office to become one of the few students in the school and of the ~40 students worldwide to receive a $60,000 scholarship that contributes to my $190,000 tuition at Phillips Academy and will contribute $80,000 to the tuition at a college in the United States if I am admitted to a Davis-affiliated school. Upon the Davis Scholars meeting in New York City in 2018, I built a website for Davis Scholars that lists the scholarship recipients and their schools on an interactive 3D model of Earth, under the guidance of Lance Odden — head of the program.
 
 #### Ukraine Global Scholars (UGS), 501(c)(3), 2016
