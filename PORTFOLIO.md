@@ -9,7 +9,7 @@
 <br>
 <br>
 
-(Disclaimer: some of the information is projected as of October 2019. That is, it might yet not be completely true as of Summer 2019.)
+(Disclaimer: some of the information is projected as of October 2019. That is, it might yet not be completely true as of Summer 2019. False facts are merely estimates and are marked with *.)
 
 **I am interested in how technology affects people politically, economically, and personally. My short-term objectives include building Harpocrate — a [Politiwatch 501(c)(3)](https://politiwatch.org/) initiative established to provide transparency in privacy policies, collaborating with CoSpace Robotics to bring accessible programming education to US students from underprivileged backgrounds, and developing Plutus — a financial technology startup backed by Silicon Valley investors. I am also the creator of [Icy Bounce](https://icybounce.com) — a mobile arcade game featured by Apple in 70+ countries with more than 250,000 downloads, and a mentor at [Ukraine Global Scholars 501(c)(3)](https://ukraineglobalscholars.org) — a non-profit that in less than five years of existence helped more than 50 talented Ukrainian high school students receive over 15 million dollars to study in the top-rated schools worldwide.**
 
@@ -34,9 +34,11 @@ Along with my admission to Phillips Academy in 2017, I was also selected by the 
 Following my first attempt a year before, in 2016 I was selected as one of the 19 students from 500+ applicants to receive guidance with the application process to private U.S. schools. With the help of UGS, I applied to 13 independent boarding schools in the United States and gained admission to Phillips Academy, where I am currently enrolled, as well as three other preporatory schools. I also hold several leadership positions in the organization that are described below.
 
 ## Leadership Positions & Organizations
-#### Admission Officer, Technology Lead, and Mentor at Ukraine Global Scholars 501(c)(3)
+#### Admission Officer, Technology Lead, and Mentor at Ukraine Global Scholars 501(c)(3), 2016-2019
 - Mentored two UGS scholars in 2018 to apply to boarding schools. They received over $400,000 in scholarship money and will be attending Phillips Academy and The Taft School in the Fall of 2019. 
 - Built an updated website for Ukraine Global Scholars — https://ukraineglobalscholars.org/. Responsible for building a new application platform in 2020.
 - The only high school student to become an Admission Officer at UGS.
 
-#### __Harpocrate
+#### Co-Founder at Harpocrate, a [Politiwatch](https://politiwatch.org/) 501(c)(3) initiative, 2019
+- Harpocrate is a privacy policy lookup system that uses intelligent algorithms, including machine learning, to process the contents of privacy policies and present them to users in an easily digestible way.
+- Developed in collaboration with [Miles McCain](https://rmrm.io/) and published a browser extension downloaded by over 100,000* users and featured by New York Times*.
