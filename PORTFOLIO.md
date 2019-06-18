@@ -1,10 +1,7 @@
 <p align="center">
-  <h1 align="center"><a href="https://igor.fyi/">Igor Barakaiev</h1>
+  <h1 align="center"><a href="https://igor.fyi/" style="color: #64b5f6">Igor Barakaiev</a></h1>
   <h2 align="center">毕毅豪</h2>
   <p align="center">
-    <a href="https://igor.fyi/"><strong>Personal Website »</strong></a>
-    <br>
-    <br>
     <a href="#academics">Academics</a>
     •
     <a href="#projects">Projects</a>
