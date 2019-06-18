@@ -76,6 +76,8 @@ I was personally invited by Tsinghua University (Chinese No. 1 university) to re
 
 ## Other
 Over the years, I have worked on a number of projects ranging from 2D games to machine learning algorithms. I am unable to include many of those in this portfolio as most of them have been discontinued. Below is the brief list of the most interesting ones:
-- **Decrypth**: a [YouTube channel](https://www.youtube.com/channel/UCN1tAskUylY71ErSjFWh4fA) containing a series of CS puzzles, solving which leads to a secret Telegram channel (discontinued).
+- **Facemoji**: a Python + OpenCV script used to draw beautiful emoji arts given a photo as an input. Examples: https://drive.google.com/open?id=1z-UTtYPXHwAlK5eKDyt5aecgrWh5jS3v
 - **WearEnglish**: a smartwatch app for learning English developed for Samsung Gear S2 within "Ukrainian Inside" — a national programming contest held by Samsung. The app is no longer available, though the Google Slides presentation can be found [here](https://drive.google.com/open?id=1CaEmYqFKlGmmMadr_-wXEg2cbLdHl9S3pNte4PGT6_Q) (in Ukrainian).
-- **CHCKR**: a natural language processing model for analyzing essay on more general topics than merely grammar (i.e. semantics, structure, flow, etc). A private repository on BitBucket still exists, though.
+- [**KBD**](https://github.com/milesmcc/kbd): a Chrome extension that adds predictive keyboard shortcuts using machine learning algorithms in order to make online browsing faster and accessible to people with disabilities.
+- **Decrypth**: a [YouTube channel](https://www.youtube.com/channel/UCN1tAskUylY71ErSjFWh4fA) containing a series of CS puzzles, solving which leads to a secret Telegram channel (discontinued).
+- **CHCKR**: a natural language processing model for analyzing essays on more general topics than merely grammar (i.e. semantics, structure, flow, etc). The project have been since discontinued, though a private repository on BitBucket containing basic functionality is still available.
