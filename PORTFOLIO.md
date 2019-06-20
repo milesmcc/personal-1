@@ -58,7 +58,7 @@ Over the recent years, Techmasters have created and held [PACTF](https://2019.pa
 ## Music
 In 2011, I have started playing the guitar after watching Tommy Emmanuel's performance of "The Finger Lakes" on YouTube. Since then, I have become a self-taught guitarist, and soon attended a music school (a separate institution  from the regular school). In less than two years, I had already participated in the "Ukraine's Got Talent" (though my performance was cut from the TV version), and had won multiple national guitar contests. I have also composed my first composition [**Life**](https://soundcloud.com/igor-barakaiev/life) at the age of 12, and since then have started to teach myself to play the piano and to compose electronic music. In 2016, I graduated from the music school with honors in four years instead of the required eight. I continue to play music; currently, I run the electronic music club and take the guitar classes at Andover. Recently, I have opened one of the concluding All-School Meetings with the "Beatles Medley" (equivalent of the following performance: https://youtu.be/O1MrQRl7V-o). 
 
-I have messaged Tommy Emmanuel on Facebook and heard back from him multiple times. In 2015, he personally let me in to the "Meet & Greet" session before his concert in Kiev and we [performed "The Finger Lakes" together](https://youtu.be/K6mBssDipec).
+I have messaged Tommy Emmanuel on Facebook and heard back from him multiple times. In 2015, he personally let me in to the "Meet & Greet" session before his concert in Kiev, and we [performed "The Finger Lakes" together](https://youtu.be/K6mBssDipec).
 
 The following are several of my compositions, besides _Life_ and _Andover in A Minor_, that I am most proud of:
 - My piano song, composed and performed on a MIDI-keyboard back when I did not have access to a good piano (2015): https://soundcloud.com/igor-barakaiev/time/s-5u5b6
@@ -86,4 +86,4 @@ Over the years, I have worked on a number of projects ranging from 2D games to m
 - **Decrypth**: a [YouTube channel](https://www.youtube.com/channel/UCN1tAskUylY71ErSjFWh4fA) containing a series of CS puzzles, solving which leads to a secret Telegram channel (discontinued).
 - **CHCKR**: a natural language processing model for analyzing essays on more general topics than merely grammar (i.e. semantics, structure, flow, etc). The project have been since discontinued, though a private repository on BitBucket containing basic functionality is still available.
 
-I have also completed Coursera's "Machine Learning" by Andrew Ng in 2015, and have since been interested in machine learning. 
+I have also completed Coursera's "Machine Learning" by Andrew Ng in 2015, and have since been interested in machine learning.
